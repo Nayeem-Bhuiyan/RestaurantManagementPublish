@@ -1,0 +1,1 @@
+git remote add origin https://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@github.com/Nayeem-Bhuiyan/RestaurantManagementPublish.git
